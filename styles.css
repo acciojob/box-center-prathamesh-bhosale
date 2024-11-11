@@ -1,7 +1,9 @@
+
+
 .container {
             position: relative;
             height: 100vh;
-	border-top-width: 2px;
+			border: solid 2px black ;	
         }
 
         .centered-box {
